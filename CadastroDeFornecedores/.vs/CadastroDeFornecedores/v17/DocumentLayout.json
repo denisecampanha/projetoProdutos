@@ -1,0 +1,305 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Denise\\source\\repos\\CadastroDeFornecedores\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E24B996A-BD6B-4A9D-897B-4F70FDA543C7}|CadastroDeFornecedores\\CadastroDeFornecedores.csproj|C:\\Users\\Denise\\source\\repos\\CadastroDeFornecedores\\cadastrodefornecedores\\repositorios\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E24B996A-BD6B-4A9D-897B-4F70FDA543C7}|CadastroDeFornecedores\\CadastroDeFornecedores.csproj|solutionrelative:cadastrodefornecedores\\repositorios\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E24B996A-BD6B-4A9D-897B-4F70FDA543C7}|CadastroDeFornecedores\\CadastroDeFornecedores.csproj|C:\\Users\\Denise\\source\\repos\\CadastroDeFornecedores\\cadastrodefornecedores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E24B996A-BD6B-4A9D-897B-4F70FDA543C7}|CadastroDeFornecedores\\CadastroDeFornecedores.csproj|solutionrelative:cadastrodefornecedores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E24B996A-BD6B-4A9D-897B-4F70FDA543C7}|CadastroDeFornecedores\\CadastroDeFornecedores.csproj|C:\\Users\\Denise\\source\\repos\\CadastroDeFornecedores\\cadastrodefornecedores\\classes\\fornecedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E24B996A-BD6B-4A9D-897B-4F70FDA543C7}|CadastroDeFornecedores\\CadastroDeFornecedores.csproj|solutionrelative:cadastrodefornecedores\\classes\\fornecedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E24B996A-BD6B-4A9D-897B-4F70FDA543C7}|CadastroDeFornecedores\\CadastroDeFornecedores.csproj|C:\\Users\\Denise\\source\\repos\\CadastroDeFornecedores\\cadastrodefornecedores\\frmsistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E24B996A-BD6B-4A9D-897B-4F70FDA543C7}|CadastroDeFornecedores\\CadastroDeFornecedores.csproj|solutionrelative:cadastrodefornecedores\\frmsistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E24B996A-BD6B-4A9D-897B-4F70FDA543C7}|CadastroDeFornecedores\\CadastroDeFornecedores.csproj|C:\\Users\\Denise\\source\\repos\\CadastroDeFornecedores\\cadastrodefornecedores\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E24B996A-BD6B-4A9D-897B-4F70FDA543C7}|CadastroDeFornecedores\\CadastroDeFornecedores.csproj|solutionrelative:cadastrodefornecedores\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E24B996A-BD6B-4A9D-897B-4F70FDA543C7}|CadastroDeFornecedores\\CadastroDeFornecedores.csproj|C:\\Users\\Denise\\source\\repos\\CadastroDeFornecedores\\cadastrodefornecedores\\frmfornecedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E24B996A-BD6B-4A9D-897B-4F70FDA543C7}|CadastroDeFornecedores\\CadastroDeFornecedores.csproj|solutionrelative:cadastrodefornecedores\\frmfornecedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E24B996A-BD6B-4A9D-897B-4F70FDA543C7}|CadastroDeFornecedores\\CadastroDeFornecedores.csproj|C:\\Users\\Denise\\source\\repos\\CadastroDeFornecedores\\cadastrodefornecedores\\repositorios\\usuariosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E24B996A-BD6B-4A9D-897B-4F70FDA543C7}|CadastroDeFornecedores\\CadastroDeFornecedores.csproj|solutionrelative:cadastrodefornecedores\\repositorios\\usuariosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E24B996A-BD6B-4A9D-897B-4F70FDA543C7}|CadastroDeFornecedores\\CadastroDeFornecedores.csproj|C:\\Users\\Denise\\source\\repos\\CadastroDeFornecedores\\cadastrodefornecedores\\frmfornecedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E24B996A-BD6B-4A9D-897B-4F70FDA543C7}|CadastroDeFornecedores\\CadastroDeFornecedores.csproj|solutionrelative:cadastrodefornecedores\\frmfornecedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E24B996A-BD6B-4A9D-897B-4F70FDA543C7}|CadastroDeFornecedores\\CadastroDeFornecedores.csproj|C:\\Users\\Denise\\source\\repos\\CadastroDeFornecedores\\cadastrodefornecedores\\frmprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E24B996A-BD6B-4A9D-897B-4F70FDA543C7}|CadastroDeFornecedores\\CadastroDeFornecedores.csproj|solutionrelative:cadastrodefornecedores\\frmprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E24B996A-BD6B-4A9D-897B-4F70FDA543C7}|CadastroDeFornecedores\\CadastroDeFornecedores.csproj|C:\\Users\\Denise\\source\\repos\\CadastroDeFornecedores\\cadastrodefornecedores\\frmprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E24B996A-BD6B-4A9D-897B-4F70FDA543C7}|CadastroDeFornecedores\\CadastroDeFornecedores.csproj|solutionrelative:cadastrodefornecedores\\frmprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E24B996A-BD6B-4A9D-897B-4F70FDA543C7}|CadastroDeFornecedores\\CadastroDeFornecedores.csproj|C:\\Users\\Denise\\source\\repos\\CadastroDeFornecedores\\cadastrodefornecedores\\repositorios\\produtosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E24B996A-BD6B-4A9D-897B-4F70FDA543C7}|CadastroDeFornecedores\\CadastroDeFornecedores.csproj|solutionrelative:cadastrodefornecedores\\repositorios\\produtosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E24B996A-BD6B-4A9D-897B-4F70FDA543C7}|CadastroDeFornecedores\\CadastroDeFornecedores.csproj|C:\\Users\\Denise\\source\\repos\\CadastroDeFornecedores\\cadastrodefornecedores\\repositorios\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E24B996A-BD6B-4A9D-897B-4F70FDA543C7}|CadastroDeFornecedores\\CadastroDeFornecedores.csproj|solutionrelative:cadastrodefornecedores\\repositorios\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E24B996A-BD6B-4A9D-897B-4F70FDA543C7}|CadastroDeFornecedores\\CadastroDeFornecedores.csproj|C:\\Users\\Denise\\source\\repos\\CadastroDeFornecedores\\cadastrodefornecedores\\repositorios\\fornecedoresrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E24B996A-BD6B-4A9D-897B-4F70FDA543C7}|CadastroDeFornecedores\\CadastroDeFornecedores.csproj|solutionrelative:cadastrodefornecedores\\repositorios\\fornecedoresrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E24B996A-BD6B-4A9D-897B-4F70FDA543C7}|CadastroDeFornecedores\\CadastroDeFornecedores.csproj|C:\\Users\\Denise\\source\\repos\\CadastroDeFornecedores\\cadastrodefornecedores\\classes\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E24B996A-BD6B-4A9D-897B-4F70FDA543C7}|CadastroDeFornecedores\\CadastroDeFornecedores.csproj|solutionrelative:cadastrodefornecedores\\classes\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E24B996A-BD6B-4A9D-897B-4F70FDA543C7}|CadastroDeFornecedores\\CadastroDeFornecedores.csproj|C:\\Users\\Denise\\source\\repos\\CadastroDeFornecedores\\cadastrodefornecedores\\classes\\produtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E24B996A-BD6B-4A9D-897B-4F70FDA543C7}|CadastroDeFornecedores\\CadastroDeFornecedores.csproj|solutionrelative:cadastrodefornecedores\\classes\\produtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E24B996A-BD6B-4A9D-897B-4F70FDA543C7}|CadastroDeFornecedores\\CadastroDeFornecedores.csproj|C:\\Users\\Denise\\source\\repos\\CadastroDeFornecedores\\cadastrodefornecedores\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E24B996A-BD6B-4A9D-897B-4F70FDA543C7}|CadastroDeFornecedores\\CadastroDeFornecedores.csproj|solutionrelative:cadastrodefornecedores\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E24B996A-BD6B-4A9D-897B-4F70FDA543C7}|CadastroDeFornecedores\\CadastroDeFornecedores.csproj|C:\\Users\\Denise\\source\\repos\\CadastroDeFornecedores\\cadastrodefornecedores\\frmsistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E24B996A-BD6B-4A9D-897B-4F70FDA543C7}|CadastroDeFornecedores\\CadastroDeFornecedores.csproj|solutionrelative:cadastrodefornecedores\\frmsistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsuariosRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Denise\\source\\repos\\CadastroDeFornecedores\\CadastroDeFornecedores\\Repositorios\\UsuariosRepositorio.cs",
+              "RelativeDocumentMoniker": "CadastroDeFornecedores\\Repositorios\\UsuariosRepositorio.cs",
+              "ToolTip": "C:\\Users\\Denise\\source\\repos\\CadastroDeFornecedores\\CadastroDeFornecedores\\Repositorios\\UsuariosRepositorio.cs",
+              "RelativeToolTip": "CadastroDeFornecedores\\Repositorios\\UsuariosRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T22:35:30.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\Denise\\source\\repos\\CadastroDeFornecedores\\CadastroDeFornecedores\\Classes\\Usuarios.cs",
+              "RelativeDocumentMoniker": "CadastroDeFornecedores\\Classes\\Usuarios.cs",
+              "ToolTip": "C:\\Users\\Denise\\source\\repos\\CadastroDeFornecedores\\CadastroDeFornecedores\\Classes\\Usuarios.cs",
+              "RelativeToolTip": "CadastroDeFornecedores\\Classes\\Usuarios.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAIAywBIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T22:35:06.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Produtos.cs",
+              "DocumentMoniker": "C:\\Users\\Denise\\source\\repos\\CadastroDeFornecedores\\CadastroDeFornecedores\\Classes\\Produtos.cs",
+              "RelativeDocumentMoniker": "CadastroDeFornecedores\\Classes\\Produtos.cs",
+              "ToolTip": "C:\\Users\\Denise\\source\\repos\\CadastroDeFornecedores\\CadastroDeFornecedores\\Classes\\Produtos.cs",
+              "RelativeToolTip": "CadastroDeFornecedores\\Classes\\Produtos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T22:23:35.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Fornecedores.cs",
+              "DocumentMoniker": "C:\\Users\\Denise\\source\\repos\\CadastroDeFornecedores\\CadastroDeFornecedores\\Classes\\Fornecedores.cs",
+              "RelativeDocumentMoniker": "CadastroDeFornecedores\\Classes\\Fornecedores.cs",
+              "ToolTip": "C:\\Users\\Denise\\source\\repos\\CadastroDeFornecedores\\CadastroDeFornecedores\\Classes\\Fornecedores.cs",
+              "RelativeToolTip": "CadastroDeFornecedores\\Classes\\Fornecedores.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAmwB4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T22:23:23.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProdutosRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Denise\\source\\repos\\CadastroDeFornecedores\\CadastroDeFornecedores\\Repositorios\\ProdutosRepositorio.cs",
+              "RelativeDocumentMoniker": "CadastroDeFornecedores\\Repositorios\\ProdutosRepositorio.cs",
+              "ToolTip": "C:\\Users\\Denise\\source\\repos\\CadastroDeFornecedores\\CadastroDeFornecedores\\Repositorios\\ProdutosRepositorio.cs",
+              "RelativeToolTip": "CadastroDeFornecedores\\Repositorios\\ProdutosRepositorio.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T21:50:27.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FornecedoresRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Denise\\source\\repos\\CadastroDeFornecedores\\CadastroDeFornecedores\\Repositorios\\FornecedoresRepositorio.cs",
+              "RelativeDocumentMoniker": "CadastroDeFornecedores\\Repositorios\\FornecedoresRepositorio.cs",
+              "ToolTip": "C:\\Users\\Denise\\source\\repos\\CadastroDeFornecedores\\CadastroDeFornecedores\\Repositorios\\FornecedoresRepositorio.cs",
+              "RelativeToolTip": "CadastroDeFornecedores\\Repositorios\\FornecedoresRepositorio.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAGIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T21:49:37.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\Denise\\source\\repos\\CadastroDeFornecedores\\CadastroDeFornecedores\\Repositorios\\DataContext.cs",
+              "RelativeDocumentMoniker": "CadastroDeFornecedores\\Repositorios\\DataContext.cs",
+              "ToolTip": "C:\\Users\\Denise\\source\\repos\\CadastroDeFornecedores\\CadastroDeFornecedores\\Repositorios\\DataContext.cs",
+              "RelativeToolTip": "CadastroDeFornecedores\\Repositorios\\DataContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAkwBAAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T10:21:02.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmSistema.cs",
+              "DocumentMoniker": "C:\\Users\\Denise\\source\\repos\\CadastroDeFornecedores\\CadastroDeFornecedores\\frmSistema.cs",
+              "RelativeDocumentMoniker": "CadastroDeFornecedores\\frmSistema.cs",
+              "ToolTip": "C:\\Users\\Denise\\source\\repos\\CadastroDeFornecedores\\CadastroDeFornecedores\\frmSistema.cs",
+              "RelativeToolTip": "CadastroDeFornecedores\\frmSistema.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAUwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T10:19:36.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Denise\\source\\repos\\CadastroDeFornecedores\\CadastroDeFornecedores\\Program.cs",
+              "RelativeDocumentMoniker": "CadastroDeFornecedores\\Program.cs",
+              "ToolTip": "C:\\Users\\Denise\\source\\repos\\CadastroDeFornecedores\\CadastroDeFornecedores\\Program.cs",
+              "RelativeToolTip": "CadastroDeFornecedores\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T00:45:53.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\Denise\\source\\repos\\CadastroDeFornecedores\\CadastroDeFornecedores\\Repositorios\\DataAccess.cs",
+              "RelativeDocumentMoniker": "CadastroDeFornecedores\\Repositorios\\DataAccess.cs",
+              "ToolTip": "C:\\Users\\Denise\\source\\repos\\CadastroDeFornecedores\\CadastroDeFornecedores\\Repositorios\\DataAccess.cs",
+              "RelativeToolTip": "CadastroDeFornecedores\\Repositorios\\DataAccess.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwB4AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T00:43:15.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmFornecedores.cs",
+              "DocumentMoniker": "C:\\Users\\Denise\\source\\repos\\CadastroDeFornecedores\\CadastroDeFornecedores\\frmFornecedores.cs",
+              "RelativeDocumentMoniker": "CadastroDeFornecedores\\frmFornecedores.cs",
+              "ToolTip": "C:\\Users\\Denise\\source\\repos\\CadastroDeFornecedores\\CadastroDeFornecedores\\frmFornecedores.cs",
+              "RelativeToolTip": "CadastroDeFornecedores\\frmFornecedores.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAcwJcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T00:42:39.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmProdutos.cs",
+              "DocumentMoniker": "C:\\Users\\Denise\\source\\repos\\CadastroDeFornecedores\\CadastroDeFornecedores\\frmProdutos.cs",
+              "RelativeDocumentMoniker": "CadastroDeFornecedores\\frmProdutos.cs",
+              "ToolTip": "C:\\Users\\Denise\\source\\repos\\CadastroDeFornecedores\\CadastroDeFornecedores\\frmProdutos.cs",
+              "RelativeToolTip": "CadastroDeFornecedores\\frmProdutos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T19:36:33.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmProdutos.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Denise\\source\\repos\\CadastroDeFornecedores\\CadastroDeFornecedores\\frmProdutos.cs",
+              "RelativeDocumentMoniker": "CadastroDeFornecedores\\frmProdutos.cs",
+              "ToolTip": "C:\\Users\\Denise\\source\\repos\\CadastroDeFornecedores\\CadastroDeFornecedores\\frmProdutos.cs [Design]",
+              "RelativeToolTip": "CadastroDeFornecedores\\frmProdutos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T00:21:30.782Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmFornecedores.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Denise\\source\\repos\\CadastroDeFornecedores\\CadastroDeFornecedores\\frmFornecedores.cs",
+              "RelativeDocumentMoniker": "CadastroDeFornecedores\\frmFornecedores.cs",
+              "ToolTip": "C:\\Users\\Denise\\source\\repos\\CadastroDeFornecedores\\CadastroDeFornecedores\\frmFornecedores.cs [Design]",
+              "RelativeToolTip": "CadastroDeFornecedores\\frmFornecedores.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T00:08:02.449Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Denise\\source\\repos\\CadastroDeFornecedores\\CadastroDeFornecedores\\frmLogin.cs",
+              "RelativeDocumentMoniker": "CadastroDeFornecedores\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\Denise\\source\\repos\\CadastroDeFornecedores\\CadastroDeFornecedores\\frmLogin.cs",
+              "RelativeToolTip": "CadastroDeFornecedores\\frmLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T23:59:29.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmSistema.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Denise\\source\\repos\\CadastroDeFornecedores\\CadastroDeFornecedores\\frmSistema.cs",
+              "RelativeDocumentMoniker": "CadastroDeFornecedores\\frmSistema.cs",
+              "ToolTip": "C:\\Users\\Denise\\source\\repos\\CadastroDeFornecedores\\CadastroDeFornecedores\\frmSistema.cs [Design]",
+              "RelativeToolTip": "CadastroDeFornecedores\\frmSistema.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T23:54:19.363Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Denise\\source\\repos\\CadastroDeFornecedores\\CadastroDeFornecedores\\frmLogin.cs",
+              "RelativeDocumentMoniker": "CadastroDeFornecedores\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\Denise\\source\\repos\\CadastroDeFornecedores\\CadastroDeFornecedores\\frmLogin.cs [Design]",
+              "RelativeToolTip": "CadastroDeFornecedores\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T23:46:38.036Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
